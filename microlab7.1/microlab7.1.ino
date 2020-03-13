@@ -1,5 +1,5 @@
-//#include<ThreeWire.h>
-//#include<RtcDS1302.h>
+#include<ThreeWire.h>
+#include<RtcDS1302.h>
 
 #include<SPI.h>
 #include<Wire.h>
